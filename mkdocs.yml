@@ -1,0 +1,5 @@
+site_name: My Whitepaper
+nav:
+  - Home: index.md
+  - Features: features.md
+theme: material 
